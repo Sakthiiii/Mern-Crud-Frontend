@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "name": "Mahmoud", "email": "mahmoud@gmail.com" },
+    { "id": 2, "name": "Ali", "email": "ali@gmail.com" },
+    { "id": 3, "name": "Mina", "email": "mina@gmail.com" },
+    { "id": 4, "name": "Nada", "email": "nada@gmail.com" }
+  ]
+}
